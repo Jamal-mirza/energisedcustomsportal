@@ -138,7 +138,7 @@ export default function Login({ onLogin }) {
               className="btn-glass btn" 
               style={{ width: '100%', fontSize: '0.8rem', padding: '0.5rem', textTransform: 'none', display: 'flex', justifyContent: 'space-between' }}
             >
-              <span>Login as <strong>Nathan</strong> (Interviewer)</span>
+              <span>Login as <strong>Nathan</strong></span>
               <span style={{ color: 'var(--brand-color)', fontWeight: 'bold' }}>Director</span>
             </button>
             <button 
@@ -146,7 +146,7 @@ export default function Login({ onLogin }) {
               className="btn-glass btn" 
               style={{ width: '100%', fontSize: '0.8rem', padding: '0.5rem', textTransform: 'none', display: 'flex', justifyContent: 'space-between' }}
             >
-              <span>Login as <strong>Jamal</strong> (Candidate)</span>
+              <span>Login as <strong>Jamal</strong></span>
               <span style={{ color: 'var(--brand-color)', fontWeight: 'bold' }}>Associate</span>
             </button>
           </div>
